@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="chart-452eb23a-b05c-42f8-908e-a94f6ef6fe6f"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 600"
+	 style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-dasharray:6,6;}
+	.st1{font-family:'Menlo-Regular';}
+	.st2{font-size:10px;}
+	.st3{fill:none;stroke:#000000;stroke-dasharray:4,4;}
+	.st4{fill:none;stroke:#F44336;stroke-opacity:0.8;}
+	.st5{fill:none;stroke:#3F51B5;stroke-opacity:0.8;}
+	.st6{fill:none;stroke:#009688;stroke-opacity:0.8;}
+	.st7{fill:#F44336;stroke:#F44336;}
+	.st8{fill:#3F51B5;stroke:#3F51B5;}
+	.st9{fill:#009688;stroke:#009688;}
+	.st10{opacity:0;}
+	.st11{fill-opacity:0.95;}
+	.st12{fill:#F44336;fill-opacity:0.7;stroke:#F44336;stroke-opacity:0.8;}
+	.st13{font-size:14px;}
+	.st14{fill:#3F51B5;fill-opacity:0.7;stroke:#3F51B5;stroke-opacity:0.8;}
+	.st15{fill:#009688;fill-opacity:0.7;stroke:#009688;stroke-opacity:0.8;}
+</style>
+<defs>
+	<script  type="text/javascript">
+		window.pygal = window.pygal || {};window.pygal.config = window.pygal.config || {};window.pygal.config[&apos;452eb23a-b05c-42f8-908e-a94f6ef6fe6f&apos;] = {&quot;allow_interruptions&quot;: false, &quot;box_mode&quot;: &quot;extremes&quot;, &quot;classes&quot;: [&quot;pygal-chart&quot;], &quot;css&quot;: [&quot;file://style.css&quot;, &quot;file://graph.css&quot;], &quot;defs&quot;: [], &quot;disable_xml_declaration&quot;: false, &quot;dots_size&quot;: 2.5, &quot;dynamic_print_values&quot;: false, &quot;explicit_size&quot;: false, &quot;fill&quot;: false, &quot;force_uri_protocol&quot;: &quot;https&quot;, &quot;formatter&quot;: null, &quot;half_pie&quot;: false, &quot;height&quot;: 600, &quot;include_x_axis&quot;: false, &quot;inner_radius&quot;: 0, &quot;interpolate&quot;: null, &quot;interpolation_parameters&quot;: {}, &quot;interpolation_precision&quot;: 250, &quot;inverse_y_axis&quot;: false, &quot;js&quot;: [&quot;//kozea.github.io/pygal.js/2.0.x/pygal-tooltips.min.js&quot;], &quot;legend_at_bottom&quot;: false, &quot;legend_at_bottom_columns&quot;: null, &quot;legend_box_size&quot;: 12, &quot;logarithmic&quot;: false, &quot;margin&quot;: 20, &quot;margin_bottom&quot;: null, &quot;margin_left&quot;: null, &quot;margin_right&quot;: null, &quot;margin_top&quot;: null, &quot;max_scale&quot;: 16, &quot;min_scale&quot;: 4, &quot;missing_value_fill_truncation&quot;: &quot;x&quot;, &quot;no_data_text&quot;: &quot;No data&quot;, &quot;no_prefix&quot;: false, &quot;order_min&quot;: null, &quot;pretty_print&quot;: false, &quot;print_labels&quot;: false, &quot;print_values&quot;: false, &quot;print_values_position&quot;: &quot;center&quot;, &quot;print_zeroes&quot;: true, &quot;range&quot;: [0, 2], &quot;rounded_bars&quot;: null, &quot;secondary_range&quot;: null, &quot;show_dots&quot;: true, &quot;show_legend&quot;: true, &quot;show_minor_x_labels&quot;: true, &quot;show_minor_y_labels&quot;: true, &quot;show_only_major_dots&quot;: false, &quot;show_x_guides&quot;: false, &quot;show_x_labels&quot;: true, &quot;show_y_guides&quot;: true, &quot;show_y_labels&quot;: true, &quot;spacing&quot;: 10, &quot;stack_from_top&quot;: false, &quot;strict&quot;: false, &quot;stroke&quot;: true, &quot;stroke_style&quot;: null, &quot;style&quot;: {&quot;background&quot;: &quot;rgba(249, 249, 249, 1)&quot;, &quot;ci_colors&quot;: [], &quot;colors&quot;: [&quot;#F44336&quot;, &quot;#3F51B5&quot;, &quot;#009688&quot;, &quot;#FFC107&quot;, &quot;#FF5722&quot;, &quot;#9C27B0&quot;, &quot;#03A9F4&quot;, &quot;#8BC34A&quot;, &quot;#FF9800&quot;, &quot;#E91E63&quot;, &quot;#2196F3&quot;, &quot;#4CAF50&quot;, &quot;#FFEB3B&quot;, &quot;#673AB7&quot;, &quot;#00BCD4&quot;, &quot;#CDDC39&quot;, &quot;#9E9E9E&quot;, &quot;#607D8B&quot;], &quot;dot_opacity&quot;: &quot;1&quot;, &quot;font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;foreground&quot;: &quot;rgba(0, 0, 0, .87)&quot;, &quot;foreground_strong&quot;: &quot;rgba(0, 0, 0, 1)&quot;, &quot;foreground_subtle&quot;: &quot;rgba(0, 0, 0, .54)&quot;, &quot;guide_stroke_color&quot;: &quot;black&quot;, &quot;guide_stroke_dasharray&quot;: &quot;4,4&quot;, &quot;label_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;label_font_size&quot;: 10, &quot;legend_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;legend_font_size&quot;: 14, &quot;major_guide_stroke_color&quot;: &quot;black&quot;, &quot;major_guide_stroke_dasharray&quot;: &quot;6,6&quot;, &quot;major_label_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;major_label_font_size&quot;: 10, &quot;no_data_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;no_data_font_size&quot;: 64, &quot;opacity&quot;: &quot;.7&quot;, &quot;opacity_hover&quot;: &quot;.8&quot;, &quot;plot_background&quot;: &quot;rgba(255, 255, 255, 1)&quot;, &quot;stroke_opacity&quot;: &quot;.8&quot;, &quot;stroke_opacity_hover&quot;: &quot;.9&quot;, &quot;stroke_width&quot;: &quot;1&quot;, &quot;stroke_width_hover&quot;: &quot;4&quot;, &quot;title_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;title_font_size&quot;: 16, &quot;tooltip_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;tooltip_font_size&quot;: 14, &quot;transition&quot;: &quot;150ms&quot;, &quot;value_background&quot;: &quot;rgba(229, 229, 229, 1)&quot;, &quot;value_colors&quot;: [], &quot;value_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;value_font_size&quot;: 16, &quot;value_label_font_family&quot;: &quot;Consolas, \&quot;Liberation Mono\&quot;, Menlo, Courier, monospace&quot;, &quot;value_label_font_size&quot;: 10}, &quot;title&quot;: null, &quot;tooltip_border_radius&quot;: 0, &quot;tooltip_fancy_mode&quot;: true, &quot;truncate_label&quot;: null, &quot;truncate_legend&quot;: null, &quot;width&quot;: 800, &quot;x_label_rotation&quot;: 0, &quot;x_labels&quot;: [&quot;cat_Caring About Animals&quot;, &quot;cat_Knowledge about Farmed Animal Conditions&quot;, &quot;cat_Support for Institutional Welfare Solutions&quot;, &quot;cat_Perceptions of Meat &amp; Plant-Based Food&quot;, &quot;cat_Perceptions of Intersecting Issues&quot;, &quot;cat_Support for Farmed Animal Advocacy&quot;, &quot;cat_Consumption of Animal Products (Self-Reported)&quot;], &quot;x_labels_major&quot;: null, &quot;x_labels_major_count&quot;: null, &quot;x_labels_major_every&quot;: null, &quot;x_title&quot;: null, &quot;xrange&quot;: null, &quot;y_label_rotation&quot;: 0, &quot;y_labels&quot;: null, &quot;y_labels_major&quot;: null, &quot;y_labels_major_count&quot;: null, &quot;y_labels_major_every&quot;: null, &quot;y_title&quot;: null, &quot;zero&quot;: 0, &quot;legends&quot;: [&quot;Cluster 0&quot;, &quot;Cluster 1&quot;, &quot;Cluster 2&quot;]}
+		</script>
+	<script  type="text/javascript"></script>
+</defs>
+<g>
+	<g transform="translate(145, 20)">
+		<g>
+			<g>
+				<path class="st0" d="M317.2,20L87.6,114.1L30.9,325.6l158.9,169.6h254.9l158.9-169.6l-56.7-211.5L317.2,20z"/>
+				<text transform="matrix(1 0 0 1 306.1795 20)" class="st1 st2">2</text>
+			</g>
+			<g>
+				<path class="st3" d="M317.2,70l-183.7,75.3L88.1,314.5l127.1,135.7h203.9l127.1-135.7l-45.4-169.2L317.2,70z"/>
+				<text transform="matrix(1 0 0 1 294.1385 70)" class="st1 st2">1.6</text>
+			</g>
+			<g>
+				<path class="st3" d="M317.2,120l-137.8,56.5l-34,126.9l95.3,101.8h152.9L489,303.4l-34-126.9L317.2,120z"/>
+				<text transform="matrix(1 0 0 1 294.1385 120)" class="st1 st2">1.2</text>
+			</g>
+			<g>
+				<path class="st3" d="M317.2,170l-91.9,37.7l-22.7,84.6l63.6,67.8h101.9l63.6-67.8l-22.7-84.6L317.2,170z"/>
+				<text transform="matrix(1 0 0 1 294.1385 170)" class="st1 st2">0.8</text>
+			</g>
+			<g>
+				<path class="st3" d="M317.2,220l-45.9,18.8l-11.3,42.3l31.8,33.9h51l31.8-33.9l-11.3-42.3L317.2,220z"/>
+				<text transform="matrix(1 0 0 1 294.1385 220)" class="st1 st2">0.4</text>
+			</g>
+			<g>
+				<path class="st0" d="M317.2,270L317.2,270L317.2,270L317.2,270L317.2,270L317.2,270L317.2,270L317.2,270z"/>
+				<text transform="matrix(1 0 0 1 306.1795 270)" class="st1 st2">0</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path d="M317.2,270V20"/>
+				<text transform="matrix(1 0 0 1 244.9539 5.4)" class="st1 st2">cat_Caring About Animals</text>
+			</g>
+			<g>
+				<path d="M317.2,270L87.6,114.1"/>
+				<text transform="matrix(0.6235 -0.7818 0.7818 0.6235 27.2413 163.8629)" class="st1 st2">cat_Knowledge about Farm…</text>
+			</g>
+			<g>
+				<path d="M317.2,270L30.9,325.6"/>
+				<text transform="matrix(0.2225 0.9749 -0.9749 0.2225 -2.6085 255.5095)" class="st1 st2">cat_Support for Institut…</text>
+			</g>
+			<g>
+				<path d="M317.2,270L189.8,495.2"/>
+				<text transform="matrix(0.901 0.4339 -0.4339 0.901 114.5213 475.7438)" class="st1 st2">cat_Perceptions of Meat …</text>
+			</g>
+			<g>
+				<path d="M317.2,270l127.4,225.2"/>
+				<text transform="matrix(0.901 -0.4339 0.4339 0.901 384.2717 541.0487)" class="st1 st2">cat_Perceptions of Inter…</text>
+			</g>
+			<g>
+				<path d="M317.2,270l286.3,55.6"/>
+				<text transform="matrix(0.2225 -0.9749 0.9749 0.2225 603.5161 402.2489)" class="st1 st2">cat_Support for Farmed A…</text>
+			</g>
+			<g>
+				<path d="M317.2,270l229.6-155.9"/>
+				<text transform="matrix(0.6235 0.7818 -0.7818 0.6235 513.3151 46.1869)" class="st1 st2">cat_Consumption of Anima…</text>
+			</g>
+		</g>
+		<g>
+			<path class="st4" d="M317.2,133.8l-72.3,87.2l-132.4,88.9l148.7,59.3l117.2,9l106.3-75.6l-67.6-100.3L317.2,133.8z"/>
+		</g>
+		<g>
+			<path class="st5" d="M317.2,98.8L228.8,210L65.2,319l179.3,79.4l168.8,41.7L542,313.7L424,197.5L317.2,98.8z"/>
+		</g>
+		<g>
+			<path class="st6" d="M317.2,146.2l-79.2,70l-109.8,90.5l151.4,29.7l80.3,9l11.7-64.9l42-76L317.2,146.2z"/>
+		</g>
+	</g>
+	<g transform="translate(145, 20)">
+		<g>
+			<g>
+				<circle class="st7" cx="317.2" cy="133.8" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st7" cx="244.9" cy="220.9" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st7" cx="112.5" cy="309.8" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st7" cx="261.1" cy="369.1" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st7" cx="378.4" cy="378.1" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st7" cx="484.7" cy="302.5" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st7" cx="417.1" cy="202.2" r="2.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st8" cx="317.2" cy="98.8" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st8" cx="228.8" cy="210" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st8" cx="65.2" cy="319" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st8" cx="244.6" cy="398.4" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st8" cx="413.4" cy="440.1" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st8" cx="542" cy="313.7" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st8" cx="424" cy="197.5" r="2.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st9" cx="317.2" cy="146.2" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st9" cx="238" cy="216.2" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st9" cx="128.2" cy="306.7" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st9" cx="279.6" cy="336.4" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st9" cx="359.9" cy="345.5" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st9" cx="371.6" cy="280.6" r="2.5"/>
+			</g>
+			<g>
+				<circle class="st9" cx="413.6" cy="204.5" r="2.5"/>
+			</g>
+		</g>
+	</g>
+	<g transform="translate(145, 20)">
+	</g>
+	<g transform="translate(145, 20)">
+		<g transform="translate(0 0)" class="st10">
+			<polygon class="st11" points="0,0 0,0 0,0 			"/>
+		</g>
+	</g>
+	<g transform="translate(10, 30)">
+		<g id="activate-serie-0">
+			<rect y="1" class="st12" width="12" height="12"/>
+			<text transform="matrix(1 0 0 1 17 11.2)" class="st1 st13">Cluster 0</text>
+		</g>
+		<g id="activate-serie-1">
+			<rect y="22" class="st14" width="12" height="12"/>
+			<text transform="matrix(1 0 0 1 17 32.2)" class="st1 st13">Cluster 1</text>
+		</g>
+		<g id="activate-serie-2">
+			<rect y="43" class="st15" width="12" height="12"/>
+			<text transform="matrix(1 0 0 1 17 53.2)" class="st1 st13">Cluster 2</text>
+		</g>
+	</g>
+	<g transform="translate(790, 30)">
+	</g>
+</g>
+</svg>
